@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+
+    <string-array name="gender">
+        <item>Choose a gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
